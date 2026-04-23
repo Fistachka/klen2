@@ -36,3 +36,7 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/cbe60bb4-3102-4264-b458-ec21db7ca71d =200x200)
 stolbitsa.com/fistachka/parus<br><br>
 
+![4](https://github.com/user-attachments/assets/c70e445e-1f4b-4594-8ec9-520aed758c25)
+![3](https://github.com/user-attachments/assets/78fcb7b8-bf09-42ff-a2ee-547ce65a70db)
+
+
