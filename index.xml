@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>klen2</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="klen3"/>
   <readme>
     <ru>2e0239501d00139b3f2f1309b6619155ea5895b7f0437839efb3fcb09731b151</ru>
@@ -108,9 +108,9 @@
     <tonalities>12</tonalities>
     <video name="19t.mp4" size="2882402" type="video/mp4" volume="0.5">a138d5700d3c50a272a52d6d49cb0fd4323fd43aecbf2ec2ace59bc1ee625dcf</video>
     <notes>
-      <note number="1" values="28" ticks="194" durationTicks="25" ppq="96" velocity="0.819"/>
-      <note number="2" values="38" ticks="219" durationTicks="24" ppq="96" velocity="0.772"/>
-      <note number="3" values="28" ticks="242" durationTicks="61" ppq="96" velocity="0.827"/>
+      <note number="1" values="28" ticks="185" durationTicks="25" ppq="96" velocity="0.819"/>
+      <note number="2" values="38" ticks="209" durationTicks="24" ppq="96" velocity="0.772"/>
+      <note number="3" values="28" ticks="234" durationTicks="61" ppq="96" velocity="0.827"/>
       <note number="4" values="6" ticks="305" durationTicks="24" ppq="96" velocity="0.772"/>
       <note number="5" values="5" ticks="331" durationTicks="95" ppq="96" velocity="0.827"/>
     </notes>
@@ -138,11 +138,11 @@
     <tonalities>12</tonalities>
     <video name="21t.mp4" size="1564769" type="video/mp4" volume="0.5">50e5bc8b057efaac2ece62822a1acb2319dae4aefeba14e28c5fa4704f8679c1</video>
     <notes>
-      <note number="1" values="38" ticks="56" durationTicks="48" ppq="96" velocity="0.819"/>
-      <note number="2" values="18" ticks="104" durationTicks="47" ppq="96" velocity="0.772"/>
-      <note number="3" values="38" ticks="153" durationTicks="95" ppq="96" velocity="0.827"/>
-      <note number="4" values="58" ticks="248" durationTicks="48" ppq="96" velocity="0.772"/>
-      <note number="5" values="48" ticks="297" durationTicks="93" ppq="96" velocity="0.827"/>
+      <note number="1" values="38" ticks="70" durationTicks="48" ppq="96" velocity="0.819"/>
+      <note number="2" values="18" ticks="118" durationTicks="47" ppq="96" velocity="0.772"/>
+      <note number="3" values="38" ticks="167" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="4" values="58" ticks="262" durationTicks="48" ppq="96" velocity="0.772"/>
+      <note number="5" values="48" ticks="311" durationTicks="93" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="10">
@@ -153,11 +153,11 @@
     <tonalities>12</tonalities>
     <video name="22t.mp4" size="1063228" type="video/mp4" volume="0.5">8485d60a416f5ff3ff7e211614443d0ea07cae982ce1bbec75512459a0ac08cf</video>
     <notes>
-      <note number="1" values="28" ticks="58" durationTicks="24" ppq="96" velocity="0.819"/>
-      <note number="2" values="7" ticks="90" durationTicks="23" ppq="96" velocity="0.691"/>
-      <note number="3" values="28" ticks="117" durationTicks="100" ppq="96" velocity="0.827"/>
-      <note number="4" values="48" ticks="226" durationTicks="49" ppq="96" velocity="0.772"/>
-      <note number="5" values="38" ticks="273" durationTicks="93" ppq="96" velocity="0.827"/>
+      <note number="1" values="28" ticks="59" durationTicks="24" ppq="96" velocity="0.819"/>
+      <note number="2" values="7" ticks="84" durationTicks="23" ppq="96" velocity="0.691"/>
+      <note number="3" values="28" ticks="112" durationTicks="99" ppq="96" velocity="0.827"/>
+      <note number="4" values="48" ticks="208" durationTicks="49" ppq="96" velocity="0.772"/>
+      <note number="5" values="38" ticks="255" durationTicks="93" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="11">
