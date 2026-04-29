@@ -3,7 +3,7 @@
 "Клён" (Там, где клён шумит...) группа "Синяя птица" 1975г. 2 часть
 ![4](https://github.com/user-attachments/assets/c70e445e-1f4b-4594-8ec9-520aed758c25)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/XKIKa0dQqNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/1tc32VoVG2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Там где клён шумит над речной волной
@@ -22,7 +22,7 @@ stolbitsa.com/fistachka/klen<br><br>
 "Klyon" (Where the maple rustles...) by the band "Sinyaya Ptitsa" (Blue Bird), 1975. 2 st verse
 ![4](https://github.com/user-attachments/assets/c70e445e-1f4b-4594-8ec9-520aed758c25)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/tLyvvTc6HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/sWgjL_e0RqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Tam gde klyon shumit nad rechnoj volnoj
