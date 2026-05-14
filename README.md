@@ -4,7 +4,7 @@
 ![4](https://github.com/user-attachments/assets/c70e445e-1f4b-4594-8ec9-520aed758c25)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/XKIKa0dQqNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38_hXzXkZY4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziyGewlDDz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Сердцу очень жаль, что случилось так
 Гонит осень вдаль журавлей косяк
@@ -23,7 +23,7 @@ stolbitsa.com/fistachka/klen<br><br>
 ![4](https://github.com/user-attachments/assets/c70e445e-1f4b-4594-8ec9-520aed758c25)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/tLyvvTc6HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LVZdirPM6SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KADNdndVna8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Serdcu ochen' zhal', chto sluchilos' tak
 Gonit osen' vdal' zhuravlej kosyak
